@@ -39,23 +39,6 @@ Problem-solving | Critical Thinking | Collaboration | Communication | Stakeholde
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏋️‍♂️ [Tracking Barbell Workouts](https://github.com/BarlaSrinivas/TrackingBarbellExercises)
-- Developed a fitness tracker using **Python** to classify exercises with 98.5% accuracy based on wearable sensor data.  
-- Engineered features from accelerometer and gyroscope data using **Pandas** and **NumPy**.  
-- Applied machine learning (scikit-learn) and time-series analysis for pattern recognition and accurate repetition counting (~95%).
-
-### 📈 [Netflix Data Visualization](https://github.com/BarlaSrinivas/netflix-data-visualization)
-- Conducted an in-depth analysis of Netflix's global impact, content growth, and subscriber trends.  
-- Built interactive Tableau dashboards to showcase insights, such as a 500% growth in original content since 2015.  
-
-### 🚲 [Cyclistic Bike-Share Case Study](https://github.com/BarlaSrinivas/cyclistic-bike-share-case-study)
-- Analyzed bike-share data to uncover user patterns and propose strategies to convert casual riders into members.  
-- Created dashboards in Tableau, revealing key insights into seasonal and temporal trends.   
-
----
-
 ## 📚 Certifications
 
 - **AWS** Certified Solutions Architect – Associate
