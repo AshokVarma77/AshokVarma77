@@ -71,9 +71,9 @@ Problem-solving | Critical Thinking | Collaboration | Communication | Stakeholde
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://BarlaSrinivas.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/BarlaSrinivas)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@srinivasbarla2000)
+// [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://BarlaSrinivas.github.io)
+// [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/BarlaSrinivas)
+// [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@srinivasbarla2000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashok-varma/)
 
 
