@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashok Varma Mudunuri! 
 
-Welcome to my GitHub profile! 🚀 I'm A versatile data professional, I build robust solutions across the data lifecycle—engineering efficient pipelines, developing insightful BI dashboards, and performing in-depth analytics—to transform complex data into actionable business strategies and drive success."
+Welcome to my GitHub profile! 🚀 I'm A versatile data professional, I build robust solutions across the data lifecycle—engineering efficient pipelines, developing insightful BI dashboards, and performing in-depth analytics to transform complex data into actionable business strategies and drive success."
 
 ---
 
