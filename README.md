@@ -70,7 +70,7 @@ An enterprise-grade simulation of a retail POS system built from the ground up, 
 
 ---
 
-### 📌 [**From Warehousing to Insights**](https://github.com/AshokVarma77/data-warehousing-project)  
+### 📌 [**Warehousing to Insights**](https://github.com/AshokVarma77/data-warehousing-project)  
 **Tech Stack**: SQL Server, SSMS, Draw.io, Notion  
 A comprehensive end-to-end data analytics project simulating real-world BI workflows—starting from **data warehousing** and **ETL** to **advanced SQL analytics**.
 
