@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashok Varma Mudunuri! 
 
-Welcome to my GitHub profile! 🚀 I'm A versatile data professional, I build robust solutions across the data lifecycle—engineering efficient pipelines, developing insightful BI dashboards, and performing in-depth analytics to transform complex data into actionable business strategies and drive success."
+Welcome to my GitHub profile! 🚀 I'm a versatile technical professional passionate about designing, developing, and deploying robust software applications and data-driven solutions. My expertise spans the data lifecycle—engineering efficient pipelines, developing insightful BI dashboards, and performing in-depth analytics to transform complex information into actionable business strategies and drive success.
 
 ---
 
@@ -8,8 +8,8 @@ Welcome to my GitHub profile! 🚀 I'm A versatile data professional, I build ro
 
 - 🎓 Recent MS MIS graduate (May 2025, GPA: 3.8/4) from Texas A&M University (Mays Business School), building on a Bachelor's degree in Information Technology (GPA: 3.8/4).    
 - 📊 At Texas A&M, I developed data-driven solutions using Python, SQL, Power BI, and Tableau. Previously, at TATA Consultancy Services, I delivered ETL pipelines and impactful BI dashboards for enterprise clients like Daimler and Ericsson. 
-- 🚀 Driven by the end-to-end data journey: from engineering robust pipelines and uncovering deep analytical insights to crafting compelling BI solutions that tackle real-world challenges and deliver tangible value.
-- 🔍 Exploring challenging opportunities in Data Engineering, Business Intelligence, Data Analytics, and Business Analysis. Dive into my projects below to see my skills in action! I'm always open to connecting and discussing how I can contribute to innovative data initiatives. 
+- 🚀 Driven by the full solution development lifecycle: from architecting and building scalable software applications and engineering robust data pipelines, to uncovering deep analytical insights and crafting compelling BI solutions that tackle real-world challenges and deliver tangible value.
+- 🔍 Eager to contribute to innovative projects and exploring challenging opportunities in Software Engineering, Data Engineering, Business Intelligence, Data Analytics, and Business Analysis. Dive into my projects below to see my skills in action! I'm always open to connecting and discussing how I can help build impactful solutions.
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! 🚀 I'm A versatile data professional, I build ro
 - **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL (Advanced, Window Functions), R 
 - **Data Visualization**: Tableau, Power BI, Python (Matplotlib, Seaborn), Excel (Advanced Charting)  
 - **Statistical Analysis**: Hypothesis Testing, A/B Testing, Regression Analysis, Forecasting, Statistical Modeling  
-- **Machine Learning**: Classification & Regression Models, Feature Engineering, Time-Series Analysis 
+- **Machine Learning**: Classification & Regression Models, Feature Engineering, Time-Series Analysis
 
 ### 📊 **Business Intelligence**
 
