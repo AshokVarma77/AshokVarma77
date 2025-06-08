@@ -94,11 +94,3 @@ A comprehensive end-to-end data analytics project simulating real-world BI workf
 - **Business Analytics Specialization** - University of Pennsylvania (Coursera)
 - **Generative AI for Data Analytics** - Microsoft (Coursera)  
 
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashok-varma/)
-
-
-Let’s collaborate on exciting data-driven projects and turn raw data into actionable insights! 🎯  
