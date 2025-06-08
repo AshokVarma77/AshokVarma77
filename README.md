@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Ashok Varma Mudunuri! 
 
-Welcome to my GitHub profile! 🚀 I'm a versatile technical professional passionate about designing, developing, and deploying robust software applications and data-driven solutions. My expertise spans the data lifecycle—engineering efficient pipelines, developing insightful BI dashboards, and performing in-depth analytics to transform complex information into actionable business strategies and drive success.
+Welcome to my GitHub profile! 🚀 
 
 ---
 
 ## 💡 About Me
 
-- 🎓 Recent MS MIS graduate (May 2025, GPA: 3.8/4) from Texas A&M University (Mays Business School), building on a Bachelor's degree in Information Technology (GPA: 3.8/4).    
-- 📊 At Texas A&M, I developed data-driven solutions using Python, SQL, Power BI, and Tableau. Previously, at TATA Consultancy Services, I delivered ETL pipelines and impactful BI dashboards for enterprise clients like Daimler and Ericsson. 
+- 🎓 MS MIS graduate (May 2025, GPA: 3.8/4) from Texas A&M University (Mays Business School), building on a Bachelor's degree in Information Technology (GPA: 3.8/4).    
 - 🚀 Driven by the full solution development lifecycle: from architecting and building scalable software applications and engineering robust data pipelines, to uncovering deep analytical insights and crafting compelling BI solutions that tackle real-world challenges and deliver tangible value.
 - 🔍 Eager to contribute to innovative projects and exploring challenging opportunities in Software Engineering, Data Engineering, Business Intelligence, Data Analytics, and Business Analysis. Dive into my projects below to see my skills in action! I'm always open to connecting and discussing how I can help build impactful solutions.
 
@@ -15,24 +14,21 @@ Welcome to my GitHub profile! 🚀 I'm a versatile technical professional passio
 
 ## 🛠️ Skills & Expertise
 
-### 🔢 **Data Analytics**
-- **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL (Advanced, Window Functions), R 
-- **Data Visualization**: Tableau, Power BI, Python (Matplotlib, Seaborn), Excel (Advanced Charting)  
-- **Statistical Analysis**: Hypothesis Testing, A/B Testing, Regression Analysis, Forecasting, Statistical Modeling  
-- **Machine Learning**: Classification & Regression Models, Feature Engineering, Time-Series Analysis
 
-### 📊 **Business Intelligence**
 
-- **Interactive Dashboards**: Tableau, Power BI (incl. DAX for complex KPIs, Row-Level Security, interactive drill-downs)
-- **ETL & Data Modeling**: ETL Pipeline Development (Python, SQL, Airflow), Data Warehousing Concepts, Conceptual Data Modeling (e.g., using Lucidchart as per your project)
-- **KPI Development**: Designing, implementing, and tracking Key Performance Indicators aligned with strategic business objectives.
-- **Data Storytelling**: Translating complex data findings into clear, actionable narratives for diverse audiences.  
+### 🧠 Programming and Development
+- **Languages**: Java, Python, JavaScript, TypeScript, SQL, Shell
+- **Frameworks**: Spring Boot, React, Node.js, Express.js
+- **API Development**: REST APIs, Auth (JWT, Cognito), CRUD services
+- **DevOps & Cloud**: AWS (Lambda, S3, API Gateway, Cognito, ECS), Terraform, GitHub Actions, Docker
+- **CI/CD & Infra**: Infrastructure as Code, Git, GitHub Actions, Jenkins, Load Testing
 
-### 🧠 **Technical Skills**
-- **Databases**: RDBMS (PostgreSQL, MySQL, Microsoft SQL Server, Oracle DB), NoSQL (MongoDB)
-- **Data Warehousing & Big Data**: Snowflake, Azure Synapse, AWS Redshift, Hive, Databricks
-- **Cloud Platforms**: AWS (S3, Lambda, Redshift, API Gateway, Cognito), Azure (Synapse), GCP (BigQuery basics)
-- **Tools & Platforms**: Git & GitHub, Jira, Alteryx, dbt, Airflow, Salesforce CRM, MS Excel (Advanced, Power Query, PivotTables)
+### 📊 Data & Analytics
+- **Programming & Libraries**: Python (Pandas, NumPy, Scikit-learn), R
+- **SQL & Warehousing**: PostgreSQL, SQL Server, Redshift, Snowflake, Databricks
+- **ETL & Pipelines**: Python, dbt, Airflow, Informatica, Power Query
+- **Visualization**: Power BI (DAX, RLS), Tableau, Excel (Advanced), Matplotlib, Seaborn
+- **Analysis**: Hypothesis Testing, A/B Testing, Regression, Forecasting
 
 ### 🌍 **Soft Skills**
 Problem-solving | Critical Thinking | Collaboration | Communication | Stakeholder Management
