@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 💡 About Me
 
-- 🎓 MS MIS graduate (May 2025, GPA: 3.8/4) from Texas A&M University (Mays Business School), building on a Bachelor's degree in Information Technology (GPA: 3.8/4).    
+- 🎓 MS MIS graduate (GPA: 3.8/4) from Texas A&M University (Mays Business School), building on a Bachelor's degree in Information Technology (GPA: 3.8/4).    
 - 🚀 Driven by the full solution development lifecycle: from architecting and building scalable software applications and engineering robust data pipelines, to uncovering deep analytical insights and crafting compelling BI solutions that tackle real-world challenges and deliver tangible value.
 - 🔍 Eager to contribute to innovative projects and exploring challenging opportunities in Software Engineering, Data Engineering, Business Intelligence, Data Analytics, and Business Analysis. Dive into my projects below to see my skills in action! I'm always open to connecting and discussing how I can help build impactful solutions.
 
