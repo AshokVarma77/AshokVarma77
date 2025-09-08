@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 🚀
 
 - 🎓 MS MIS graduate (GPA: 3.8/4) from Texas A&M University (Mays Business School), building on a Bachelor's degree in Information Technology (GPA: 3.8/4).    
 - 🚀 Driven by the full solution development lifecycle: from architecting and building scalable software applications and engineering robust data pipelines, to uncovering deep analytical insights and crafting compelling BI solutions that tackle real-world challenges and deliver tangible value.
-- 🔍 Eager to contribute to innovative projects and exploring challenging opportunities in Software Engineering, Data Engineering, Business Intelligence, Data Analytics, and Business Analysis. Dive into my projects below to see my skills in action! I'm always open to connecting and discussing how I can help build impactful solutions.
+- 🔍 Eager to contribute to innovative projects and exploring challenging opportunities in Data Analytics, Data Engineering, Business Intelligence and Business Analysis. Dive into my projects below to see my skills in action! I'm always open to connecting and discussing how I can help build impactful solutions.
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! 🚀
 - **Programming & Libraries**: Python (Pandas, NumPy, Scikit-learn), R
 - **SQL & Warehousing**: PostgreSQL, SQL Server, Redshift, Snowflake, Databricks
 - **ETL & Pipelines**: Python, dbt, Airflow, Informatica, Power Query
-- **Visualization**: Power BI (DAX, RLS), Tableau, Excel (Advanced), Matplotlib, Seaborn
+- **Visualization**: Palantir Foundry, Power BI (DAX, RLS), Tableau, Excel (Advanced), Matplotlib, Seaborn
 - **Analysis**: Hypothesis Testing, A/B Testing, Regression, Forecasting
 
 ### 🌍 **Soft Skills**
